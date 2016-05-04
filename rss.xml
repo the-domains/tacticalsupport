@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tacticalsupport]]></title>
+        <description><![CDATA[tacticalsupport]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 03:23:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tactical Support Services is a Corporate Aviation IT support company. Welcome to the next level. </p>]]></description>
+            <link>undefinedtactical-support-services-is-a-corporate-aviation-it-support/index.html</link>
+            <guid isPermaLink="false">1c0bbb23-5fe2-49c1-82e0-de395ab1ca3a</guid>
+            <pubDate>Wed, 04 May 2016 03:23:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
